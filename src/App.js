@@ -1,12 +1,14 @@
 import React from 'react';
-import Homework2 from './Components/homework2';
+import Homework1 from './Components/Day-1/homework1';
+
 
 function App() {
   return (
       <>
-         < Homework2 />
+         < Homework1 />
     </>
   );
 }
 
 export default App;
+
