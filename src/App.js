@@ -1,11 +1,11 @@
 import React from 'react';
-import Homework1 from './Components/Day-1/homework1';
+import Homework2 from './Components/Day-2/homework2';
 
 
 function App() {
   return (
       <>
-         < Homework1 />
+         < Homework2 />
     </>
   );
 }
