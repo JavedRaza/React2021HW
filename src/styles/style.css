@@ -1,0 +1,12 @@
+*{padding:0;margin: 0;}
+.app{
+    padding: 3px; 
+    background-color: floralwhite;
+}
+
+.todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+  }
